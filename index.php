@@ -10,5 +10,10 @@
     <h1>Mencoba GIT REMOTE</h1>
     <p>Mencoba GIT REMOTE untuk yang kesekian kalinya</p>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. At ratione iusto officiis, reprehenderit nam ullam maiores aliquid voluptates et voluptatibus?</p>
+
+    <ul>
+        <li>Daffa</li>
+        <li>Alfariza</li>
+    </ul>
 </body>
 </html>
